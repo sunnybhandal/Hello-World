@@ -1,3 +1,3 @@
 # Hello-World
 
-Repoistory for fun stuff
+Repository for fun stuff

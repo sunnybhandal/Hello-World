@@ -1,3 +1,3 @@
-# Hello-World
+# Python Projects
 
-Repository for fun stuff
+Repo for fun, personal projects.
